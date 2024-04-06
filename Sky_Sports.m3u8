@@ -3,5 +3,5 @@
 ## Created with Broadpeak BkS350 Origin Packager  (version=1.11.2-24244)
 
 # variants
-#EXT-X-STREAM-INF:BANDWIDTH=212000,AVERAGE-BANDWIDTH=193000,CODECS="mp4a.40.2,avc1.42E00D",RESOLUTION=416x234,FRAME-RATE=25
+#EXT-X-STREAM-INF:BANDWIDTH=212000,AVERAGE-BANDWIDTH=193000,CODECS="mp4a.40.2,avc1.42E00D",RESOLUTION=416x234,FRAME-RATE=50
 https://live-dangal.akamaized.net/liveabr/pub-iodang10p4al/live_720p/chunks.m3u8
